@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Walter Cabezas</h1>
-<h3 align="center">Apasionado de la tecnologia de Buenos Aires, Argentina</h3>
+<h3 align="center">Apasionado de la tecnologia,de Buenos Aires, Argentina</h3>
 
 - 🔭 I’m currently working on **GCBA**
 
